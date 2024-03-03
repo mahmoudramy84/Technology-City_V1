@@ -2,29 +2,10 @@ Technology City
 Electronics store
 Powering Your Passion for Electronics
 
-Content:
-Team
-Architecture
-APIs and Methods
-Data Model
-User Stories
-Mockups
 
-*Team
+Team
 Mahmoud Elbehery
 Safeya Yasien
-What role will each person play in completing the project?
-	Mahmoud:
-          Back
-          Database
-          Testing
-          Deployment
-
-   Safeya:
-      		Plan
-      		Design (ui ux)
-      		Front
-
 
 
 
@@ -61,21 +42,4 @@ function: getPorduct(productId)
 description: Retrieves details of a specific product identified by its ID.
 product_id: The unique identifier of the product.
 Returns: Details of the product including its name, description ,price, reviews.
-
-*Data Model
-
-
-
-
-*User Stories
-
-As a user, I want to visit the electronics website and view a list of available products, along with their names and prices, so that I can browse through the catalog.
-As a user, I want to be able to click on a product to view its details, including a description and an image, so that I can learn more about the product.
-As a user, I want the website to have a clear and user-friendly layout, with easy navigation to different product categories, so that I can quickly find products of interest.
-As a user, I want the website to load quickly and be responsive across different devices, so that I can access it from desktops, laptops, tablets, or smartphones without any issues.
-
-*Mockups
-
-
-this is our ui ux design for home page
 
