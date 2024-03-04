@@ -4,7 +4,7 @@ Powering Your Passion for Electronics
 
 
 Team
-Mahmoud Elbehery
+Mahmoud Elbehery&
 Safeya Yasien
 
 
@@ -16,11 +16,12 @@ Safeya Yasien
 User Interface (UI)
 Interface for users to interact with the application.
 Includes web pages for browsing products and viewing details
+
 Frontend
-Client-side logic responsible for handling user interactions.
+Client-side logic  for handling user interactions.
 Utilizes HTML, CSS, and JavaScript frameworks like React.js.
 Server
-Backend responsible for processing client requests.
+Backend for processing client requests.
 Implemented using Python and Flask framework.
 Backend API
 Handles requests related to user authentication, product data retrieval, and order processing.
@@ -42,4 +43,3 @@ function: getPorduct(productId)
 description: Retrieves details of a specific product identified by its ID.
 product_id: The unique identifier of the product.
 Returns: Details of the product including its name, description ,price, reviews.
-
